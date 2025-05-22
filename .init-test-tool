@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/healthtrack-pro-94149-94155/main_container_for_healthtrack_pro"
+}
