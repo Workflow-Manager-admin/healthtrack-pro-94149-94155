@@ -73,3 +73,6 @@ src/pages/Recommendations.js
   Line 62:25:  Script URL is a form of eval                                                                                                                                                                                                                                                                                                                                       no-script-url
 
 webpack compiled with 1 warning
+Compiling...
+Compiled successfully!
+webpack compiled successfully
