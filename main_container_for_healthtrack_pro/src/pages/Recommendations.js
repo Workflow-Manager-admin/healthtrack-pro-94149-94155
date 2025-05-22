@@ -54,12 +54,12 @@ const Recommendations = () => {
               <div className="article-item">
                 <h3>The Benefits of Mediterranean Diet</h3>
                 <p>Learn about how this diet can improve heart health and longevity.</p>
-                <a href="#" className="article-link">Read More</a>
+                <a href="javascript:void(0)" className="article-link">Read More</a>
               </div>
               <div className="article-item">
                 <h3>Stress Management Techniques</h3>
                 <p>Effective ways to reduce stress and improve mental health.</p>
-                <a href="#" className="article-link">Read More</a>
+                <a href="javascript:void(0)" className="article-link">Read More</a>
               </div>
             </div>
           </div>
